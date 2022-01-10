@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs
+.suo
+[Bb]in
+[Dd]ebug
+[Rr]elease
+[Oo]bj
+
+/Iam.Portal/Iam.Portal.sln.DotSettings.user
